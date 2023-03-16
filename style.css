@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+p {
+    font-weight: bold;
+    font-size: xx-large;
+}
